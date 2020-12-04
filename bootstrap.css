@@ -2142,7 +2142,7 @@ input[type="button"].btn-block {
 .btn-success.active,
 .btn-success.disabled,
 .btn-success[disabled] {
-  color: #ffffff;
+  color: #499249;
   background-color: #51a351;
   *background-color: #499249;
 }

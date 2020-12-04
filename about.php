@@ -24,11 +24,11 @@
 		<div class="wrap">
 	     	<div class="menu">
 	     		<ul>
-			    	<li class="active"><a href="index.php">Home</a></li>
+			    	<li><a href="index.php">Home</a></li>
 			    	<li><a href="login.php">Login</a></li>
 			    	<li><a href="Customer_Add.php">Register</a></li>
 <li><a href="services.php">Services</a></li>			    	
-			    	<li><a href="about.php">About Us</a></li>
+			    	<li class="active"><a href="about.php">About Us</a></li>
 			  
 			    	
 			    	<div class="clear"></div>
@@ -55,12 +55,12 @@
     	 	<div class="image group">
 				
 				<div class="grid span_2_of_3">
-				
+		
 <div class="contact_info">
     	 				<h2>Find Us Here</h2>
 					    	  <div class="map">
 							  
-							   	    <iframe width="100%" height="180" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Lighthouse+Point,+FL,+United+States&amp;aq=4&amp;oq=light&amp;sll=26.275636,-80.087265&amp;sspn=0.04941,0.104628&amp;ie=UTF8&amp;hq=&amp;hnear=Lighthouse+Point,+Broward,+Florida,+United+States&amp;t=m&amp;z=14&amp;ll=26.275636,-80.087265&amp;output=embed"></iframe><br><small><a href="https://maps.google.co.in/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Lighthouse+Point,+FL,+United+States&amp;aq=4&amp;oq=light&amp;sll=26.275636,-80.087265&amp;sspn=0.04941,0.104628&amp;ie=UTF8&amp;hq=&amp;hnear=Lighthouse+Point,+Broward,+Florida,+United+States&amp;t=m&amp;z=14&amp;ll=26.275636,-80.087265" style="color:#666;text-align:left;font-size:12px">View Larger Map</a></small>
+							   	    <iframe width="100%" height="180" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3846.6392845160526!2d28.35571795017808!3d-15.396009789247323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19408b8f7fe4f307%3A0x329f90fc8daf8359!2sSalon%20One!5e0!3m2!1sen!2szm!4v1603782163302!5m2!1sen!2szm"></iframe><br><small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3846.6392845160526!2d28.35571795017808!3d-15.396009789247323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19408b8f7fe4f307%3A0x329f90fc8daf8359!2sSalon%20One!5e0!3m2!1sen!2szm!4v1603782163302!5m2!1sen!2szm" style="color:#666;text-align:left;font-size:12px">View Larger Map</a></small>
 							  </div>
       				</div>
       			<div class="company_address">

@@ -66,7 +66,7 @@ body {
 }
 .call p{
 	font-size:1.4em;
-	color:#FFF;
+	color:#3A7900;
 	font-family: 'ambleregular';	
 }
 .header_bottom {
@@ -84,7 +84,7 @@ body {
 	font-family: 'ambleregular';
 	font-size:0.823em;
 	text-transform:uppercase;
-	color: #fff;
+	color: #3A7900;
 	display:block;
 	padding:10px 20px;
     -webkit-transition: all .9s;
@@ -270,7 +270,7 @@ body {
 	background:#FF8601;
 }
 .discount-text h5{
-	color:#FFF;
+	color:#3A7900;
 	font-size:1.5em;
 	font-family: 'bonvenocflight';
 	line-height:1em;
@@ -278,7 +278,7 @@ body {
 .discount-text h1 {
 	font-size:6em;
 	line-height: 70px;
-	color: #FFF;
+	color: #3A7900;
 	font-family: 'bonvenocflight';
 }
 .discount-text h1 b{
@@ -297,13 +297,13 @@ body {
 .discount-text h3{
 	font-size:2em;
 	line-height:35px;
-	color:#FFF;
+	color:#3A7900;
 	font-family: 'bonvenocflight';
 	margin-bottom:10px;
 }
 .discount-text p{
 	font-size:0.8em;
-	color:#FFF;
+	color:#3A7900;
 	line-height:1.5em;
 	font-family: 'bonvenocflight';
 }
@@ -313,7 +313,7 @@ body {
 }
 .content h2 {
 	color:#9E9E9E;
-	text-shadow:0 0 5px #FFF;
+	text-shadow:0 0 5px #3A7900;
 	margin-bottom: 0.5em;
 	font-size:2em;
 	font-family: 'ambleregular';
@@ -363,7 +363,7 @@ body {
 .span_2_of_3  h3{
 	font-size:2em;
 	color:#9E9E9E;
-	text-shadow:0 0 5px #FFF;
+	text-shadow:0 0 5px #3A7900;
 	font-family:'bonvenocflight';
 	text-transform:uppercase;
 }
@@ -493,7 +493,7 @@ body {
 	max-width:100%;
 	display:block;
 	padding: 3px;
-	background: #FFF;
+	background: #3A7900;
 	border: 1px solid #DDD;
 	border-radius: 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;-o-border-radius: 20px;
 }
@@ -576,7 +576,7 @@ body {
   }
   .address li{
 	  font-size:0.85em;
-	  color:#FFF;
+	  color:#3A7900;
 	  padding:5px 0;
 	  font-family: 'ambleregular';
  }
@@ -584,7 +584,7 @@ body {
  	 display:block;
 	 font-size:0.85em;
 	 font-family: 'ambleregular';
-	  color:#FFF;
+	  color:#3A7900;
 	 padding:8px 15px;
 	 background:url(../images/footer-bullet.png) no-repeat 0;
 	 -moz-transition: all 0.2s linear; 
@@ -601,7 +601,7 @@ body {
  	 -ms-transition: all 0.2s linear;
  }
  .f_menu li a{
-	 color:#FFF;
+	 color:#3A7900;
 	 font-family: 'ambleregular';
 	 display:block;
 	 padding:8px 15px;
@@ -626,7 +626,7 @@ body {
  } 
  .img_list li a{
 	 font-size:0.85em;
-	 color:#FFF;
+	 color:#3A7900;
 	 font-family: 'ambleregular';
 	 padding:0 8px;
 	 text-transform:uppercase;
@@ -658,7 +658,7 @@ body {
  }
  .copy_right p{
 	font-size:0.85em;
-	color:#FFF;
+	color:#3A7900;
 	 font-family: 'ambleregular';
  }
  .copy_right p a{
@@ -669,7 +669,7 @@ body {
 	-moz-transition: all 300ms!important;
  }
  .copy_right p a:hover{
- 	color:#FFF;
+ 	color:#3A7900;
 	text-decoration:none;
  }
  
@@ -711,7 +711,7 @@ body {
 }
 .about_img img{
 	padding: 3px;
-	background: #FFF;
+	background: #3A7900;
 	border: 1px solid #DDD;
 }
 .about_desc h3{
@@ -730,7 +730,7 @@ body {
 /******* Popular Posts ***********/
 .post-grid {
 	padding: 10px 0px;
-	border-bottom:2px ridge #FFF;
+	border-bottom:2px ridge #3A7900;
 }
 .post-grid img {
 	float: left;
@@ -771,7 +771,7 @@ body {
 /***** Latest comments *******/
 .latest_comments{
 	padding-top:20px;
-	border-bottom:2px ridge #FFF;
+	border-bottom:2px ridge #3A7900;
 }
 .comments{
 	padding:15px 0;

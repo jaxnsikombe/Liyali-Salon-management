@@ -43,7 +43,7 @@
 	-webkit-border-bottom-left-radius:12px;
 	border-bottom-left-radius:12px;
 }.CSSTableGenerator tr:hover td{
-	background-color:#ffffff;
+	background-color:#6ea522;
 		
 
 }
@@ -79,7 +79,7 @@
 	font-size:14px;
 	font-family:Arial;
 	font-weight:bold;
-	color:#ffffff;
+	color:#6ea522;
 }
 .CSSTableGenerator tr:first-child:hover td{
 	background:-o-linear-gradient(bottom, #6ea522 5%, #8dc63f 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #6ea522), color-stop(1, #8dc63f) );

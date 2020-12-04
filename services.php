@@ -31,10 +31,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="wrap">
 	     	<div class="menu">
 	     		<ul>
-			    	<li class="active"><a href="index.php">Home</a></li>
+			    	<li><a href="index.php">Home</a></li>
 			    	<li><a href="login.php">Login</a></li>
 			    	<li><a href="Customer_Add.php">Register</a></li>	
-<li><a href="services.php">Services</a></li>					
+<li class="active"><a href="services.php">Services</a></li>					
 			    	<li><a href="about.php">About Us</a></li>
 			    	
 			    	

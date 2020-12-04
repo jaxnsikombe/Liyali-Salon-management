@@ -117,9 +117,9 @@ function Validat()
 {
     var val = document.getElementById('Mobile').value;
 
-    if (!val.match(/^[7-9][0-9]{1,9}$/)) 
+    if (!val.match(/^[0-0][0-9]{1,9}$/)) 
     {
-        alert('Only Numbers are allowed and must contain 10 number');
+        alert('Enter a Valid Phone Number Please!');
 	
 		
 		            document.getElementById('Mobile').value = "";
@@ -165,9 +165,9 @@ function Validp()
 {
     var val = document.getElementById('txt_Pwd').value;
 
-    if (!val.match(/^[A-Za-z0-9!-*]{6,8}$/)) 
+    if (!val.match(/^[A-Za-z0-9!-*]{4,18}$/)) 
     {
-        alert('Password should contain atleast a character and a Number with length atleast 6 and atmost 8');
+        alert('Password should contain atleast a character and a Number with length atleast 4 and atmost 18');
 		
 		     document.getElementById('txt_Pwd').value = "";
         return false;

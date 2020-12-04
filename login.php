@@ -25,8 +25,8 @@
 		<div class="wrap">
 	     	<div class="menu">
 	     		<ul>
-			    	<li class="active"><a href="index.php">Home</a></li>
-			    	<li><a href="login.php">Login</a></li>
+			    	<li><a href="index.php">Home</a></li>
+			    	<li class="active"><a href="login.php">Login</a></li>
 			    	<li><a href="Customer_Add.php">Register</a></li>
 					<li><a href="services.php">Services</a></li>			    	
 			    	<li><a href="about.php">About Us</a></li>
@@ -49,7 +49,7 @@
 					<h2>Login Form</h2><br>
 					    <form method="post" action="#">
 						    <div>
-						    	<span><label>USERNAME</label></span>
+						    	<span><label>USERNAME/EMAIL</label></span>
 						    	<span><input name="username" type="text" style="width: 44%;"></span>
 						    </div>
 						    <div>
